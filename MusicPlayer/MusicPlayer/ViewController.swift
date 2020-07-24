@@ -25,7 +25,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        self.addViewsWithCode();
+//        self.addViewsWithCode();
         self.initializePlayer();
     }
     
